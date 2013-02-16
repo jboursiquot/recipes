@@ -5,7 +5,7 @@ As with many of my dishes, the birth of the Meat-Tsao Vegetable Medley came as a
 
 A few minutes and steps yielded a nicely flavored meat dish that my kids not only loved because of it's sweetness but that even my wife thought was high-end restaurant quality. Not bad for an improvised meal.
 
-![](./pics/meat-tsao-vegetable-medley.jpg)
+![](../pics/meat-tsao-vegetable-medley.jpg)
 
 # Ingredients
 
