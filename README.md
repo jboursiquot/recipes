@@ -8,3 +8,11 @@ Out of necessity, I've recently learned how to throw some things together in a p
 If you happen to like any of them, feel free to tell me.
 
 Enjoy.
+
+### Meats
+
+1. [Meat-Tsao Vegetable Medley](./meats/meat-tsao-vegetable-medley.md)
+
+### Chicken
+
+1. [Drumstastic!](./chicken/drumstastic.md)
