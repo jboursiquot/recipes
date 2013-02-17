@@ -11,7 +11,7 @@ Enjoy.
 
 ### Meats
 
-1. [Meat-Tsao Vegetable Medley](./meats/meat-tsao-vegetable-medley.md)
+1. [Meat-Tsao Vegetable Medley](./meat/meat-tsao-vegetable-medley.md)
 
 ### Chicken
 
