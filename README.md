@@ -9,10 +9,10 @@ If you happen to like any of them, feel free to tell me.
 
 Enjoy.
 
-### Meats
+## Meats
 
-1. [Meat-Tsao Vegetable Medley](./meat/meat-tsao-vegetable-medley.md)
+- [Meat-Tsao Vegetable Medley](./meat/meat-tsao-vegetable-medley.md)
 
-### Chicken
+## Chicken
 
-1. [Drumstastic!](./chicken/drumstastic.md)
+- [Drumstastic!](./chicken/drumstastic.md)
