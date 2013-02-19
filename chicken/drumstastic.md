@@ -1,4 +1,4 @@
-Drumstastic (Full Meal)
+Drumstastic! (Full Meal)
 =======================
 
 This recipe is for a complete meal and not just a single dish. That said, you can follow any of the instructions on their own to prepare whichever dish you'd like.
